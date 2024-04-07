@@ -1,2 +1,2 @@
 # Landing_page
-Odin project tutorial project
+webpage created with HTML and CSS for practice.
